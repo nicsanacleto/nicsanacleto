@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Nicole Kay G. Anacleto</h1>
 <h3 align="center">A passionate learner of frontend development from Philippines</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 - 🌱 I’m currently learning **Networking, PHP, CSS , JAVASCRIPT**
 
